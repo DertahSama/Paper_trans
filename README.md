@@ -27,7 +27,9 @@
 - 腾讯 （免费）
 - 百度 （免费）
 
-申请API方法可见<https://hcfy.app/docs/services/deepl>。申请到密钥后在`translator_keys`文件夹中，加入自己的密钥即可。
+申请API方法可见<https://hcfy.app/docs/services/deepl>。
+
+申请到密钥后，在`translator_keys`文件夹中加入自己的密钥即可，详见那里的readme。
 
 ### Latex编译pdf
 这一点请自寻教程。对初学者来说，推荐texLive + TexStudio的组合。
