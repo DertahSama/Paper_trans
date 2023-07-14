@@ -6,7 +6,7 @@
 这里稍加扩展改编后，打包成了exe，便于使用。
 
 ## 功能
-还在硬啃英文文章吗？是时候全文翻译了！
+还在硬啃英文文章吗？是时候全文翻译了！（该样例见release）
 ![Snipaste_2023-07-14_22-45-11](https://github.com/DertahSama/Paper_trans/assets/74524914/5dbb558c-a9c0-422d-b701-833d323f55d2)
 ![Snipaste_2023-07-14_23-05-14](https://github.com/DertahSama/Paper_trans/assets/74524914/e43cfd01-32e0-4c64-87d6-12391638f733)
 - 全自动
