@@ -1,4 +1,4 @@
-# Paper_trans
+# Paper_translator
 这是一个利用服务商API自动全文翻译科技论文的python脚本，需借助Mathpix识别服务。
 
 改编自<https://github.com/Humphrey1997/Paper_trans>
